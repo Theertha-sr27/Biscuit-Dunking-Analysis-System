@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Biscuit Dunking Analysis System</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🍪 Biscuit Dunking Analysis</h1>
+
+        <p>
+            Advanced technology for an extremely necessary problem.
+        </p>
+
+        <label>Select Biscuit:</label>
+
+        <select id="biscuit">
+
+            <option value="Tigerbiscuit">Tigerbiscuit</option>
+            <option value="Parle-G">Parle-G</option>
+            <option value="Oreo">Oreo</option>
+            <option value="Bourbon">Bourbon</option>
+            <option value="Happy Happy">Happy Happy</option>
+        </select>
+
+        <label>Tea Temperature (°C):</label>
+
+        <input
+            type="number"
+            id="temperature"
+            placeholder="Example: 75"
+        >
+
+
+        <label>Dunking Depth (%):</label>
+
+        <input
+            type="number"
+            id="depth"
+            min="1"
+            max="100"
+            placeholder="Example: 70"
+        >
+
+
+        <button onclick="analyzeBiscuit()">
+            ANALYZE BISCUIT
+        </button>
+
+
+        <div id="result"></div>
+
+
+        <button
+            id="timerButton"
+            onclick="startTimer()"
+            style="display:none;">
+            START DUNKING
+        </button>
+
+
+        <div id="timer"></div>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
