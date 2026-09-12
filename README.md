@@ -6,30 +6,29 @@
 
 
 ## Basic Details
-### Team Name: [Eppo sheriyakki theram...]
+### Team Name: Eppo sheriyakki theram...
 
 
 ### Team Members
-- Team Lead: [Nayan keshev] - [College of engineering trikaripur]
-- Member 2: [Theertha sr] - [College of engineering trikaripur]
-- Member 3: [Sreenanda kp] - [College of engineering trikaripur]
+- Member 2: Theertha SR - College of engineering trikaripur
+- Member 3: Sreenanda KP - College of engineering trikaripur
 
 ### Project Description
-[The Biscuit Analysis System demonstrates how can we save our biscuit.]
+The Biscuit Analysis System demonstrates how can we save our biscuit.
 
 ### The Problem (that doesn't exist)
-[how do we determine wheather the conditions are suitable for dunking a buscuit?]
+how do we determine wheather the conditions are suitable for dunking a buscuit?
 
 ### The Solution (that nobody asked for)
-[create a small web application that analysis these inputs and provides a result]
+create a small web application that analysis these inputs and provides a result
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML]
-- [CSS]
-- [JAVA SCRIPT]
-- [VScode]
+- HTML
+- CSS
+- JAVA SCRIPT
+-  VScode
 
 
 ### Implementation
@@ -52,10 +51,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![menu](Add screenshot 1 here with proper name)
+!menu(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![output](Add screenshot 2 here with proper name)
+!output(Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 
@@ -77,17 +76,12 @@ For Software:
 *Explain the final build*
 
 ### Project Demo
-# Videohttps://drive.google.com/file/d/1lp6Vyxmj8nNwTT3Bb2M4NYHRUcUwGyAS/view?usp=drivesdk
+# https://drive.google.com/file/d/1lp6Vyxmj8nNwTT3Bb2M4NYHRUcUwGyAS/view?usp=drivesdk
 
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- Nayan keshav: [Specific contributions]
-- Theertha SR: [Specific contributions]
-- Sreenanda KP: [Specific contributions]
+- Theertha SR: Specific contributions
+- Sreenanda KP: Specific contributions
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
