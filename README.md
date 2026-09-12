@@ -77,17 +77,17 @@ For Software:
 *Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
+# Videohttps://drive.google.com/file/d/1lp6Vyxmj8nNwTT3Bb2M4NYHRUcUwGyAS/view?usp=drivesdk
+
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nayan keshav: [Specific contributions]
+- Theertha SR: [Specific contributions]
+- Sreenanda KP: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
