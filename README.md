@@ -66,14 +66,11 @@ For Software:
 
 
 # Build Photos
-![Components](Add photo of your components here)
+![Components](img1.png)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![Build](img2.png)
 *Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # https://drive.google.com/file/d/1lp6Vyxmj8nNwTT3Bb2M4NYHRUcUwGyAS/view?usp=drivesdk
