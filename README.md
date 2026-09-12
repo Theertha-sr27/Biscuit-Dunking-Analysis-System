@@ -2,73 +2,69 @@
 
 
 
-# [Project Name] 🎯
+# [Biscuit Dunking Analysis System] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Eppo sheriyakki theram...]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Nayan keshev] - [College of engineering trikaripur]
+- Member 2: [Theertha sr] - [College of engineering trikaripur]
+- Member 3: [Sreenanda kp] - [College of engineering trikaripur]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The Biscuit Analysis System demonstrates how can we save our biscuit.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[how do we determine wheather the conditions are suitable for dunking a buscuit?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[create a small web application that analysis these inputs and provides a result]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML]
+- [CSS]
+- [JAVA SCRIPT]
+- [VScode]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Download or clone the project.
+2. Open the project folder in Visual Studio Code.
+3. Open index.html.
+4. Run the project using Live Server or open index.html directly in a web browser.
+
 
 # Run
-[commands]
+1. Open index.html.
+2. Enter the tea temperature and dunking depth.
+3. Select a biscuit.
+4. Click *ANALYZE BISCUIT*.
+5. The system displays the analysis result.
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![menu](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![output](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
